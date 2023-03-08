@@ -1,0 +1,42 @@
+{
+	"candidateName": "Jhon Smith",
+	"phoneNumbers": ["+91 9901057647"],
+	"social": {
+		"email": "abc.def@mail-archive.com"
+	},
+	"professionalProfile": "Having an experience of 11+ years in web technologies along with Mysql as database skill. I worked in design,development, analysis, unit testing,maintance and enhancement support of various web appilcations. Hands on experience in PHP,NodeJS,Angular,<br/><strong>Zend Certified Engineer in PHP5 </strong>",
+	"highlights": [{
+			"title": "Framework/Technologies",
+			"skills": ["Angular", "Php 5.x"]
+		},
+		{
+			"title": "Aws Components",
+			"skills": ["EC2", "Sqs", "Sns"]
+		}
+	],
+	"experience" :[
+		{
+			"company" :"Wipro,Kochi",
+			"designation": "Technical Lead",
+			"startDate":"01-09-2018",
+			"endDate":"11-24-2021",
+			"project":[
+				{
+					"title":"Moneta",
+					"client":"HP",
+					"role":"Lead Developer",
+					"technologies":"Nodejs,Mongodb",
+					"description":"Delivery management tool to support various business units in HP"
+				},
+				{
+					"title":"List Managemet",
+					"client":"US Foods",
+					"role":"Lead Developer",
+					"technologies":"Angular 8,  Java",
+					"description":"Customer(Vendor) shopping list management to manage vendor shopping list for different areas and products"
+				}
+			]
+
+		}
+	]
+}
